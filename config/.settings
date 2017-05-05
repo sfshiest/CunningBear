@@ -1,0 +1,17 @@
+{
+    "projectName": "CunningBear",
+    "username": "shiest@cunning-bear-303381.com",
+    "id": "5395d900-3155-11e7-a356-57e069fdd75a",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/shiest/Development",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource",
+        "AuraDefinitionBundle"
+    ]
+}
